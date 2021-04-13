@@ -1,9 +1,17 @@
 # Chi-Squared For Feature Selection using SelectKBest
-## To view the video
-* [Click here](https://youtu.be/fMIwIKLGke0)
-* Click on the image below
 
-[![Visualize a Decision Tree from a Random Forest](http://img.youtube.com/vi/fMIwIKLGke0/0.jpg)](http://www.youtube.com/watch?v=fMIwIKLGke0)
+## To view the video
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=fMIwIKLGke0" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/fMIwIKLGke0?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
+
+
+[![Chi-Squared For Feature Selection using SelectKBest](http://img.youtube.com/vi/fMIwIKLGke0/0.jpg)](http://www.youtube.com/watch?v=fMIwIKLGke0)
 
 ## Follow Me
 <a href="https://twitter.com/_bhaveshbhatt" target="_blank"><img class="ai-subscribed-social-icon" src="https://bhattbhavesh91.github.io/assets/images/tw.png" width="30"></a>
